@@ -37,4 +37,4 @@ For every lifecycle event, a message is printed to Logcat. You can filter by the
 2. Snackbar and Toast Message Output
 A Toast and a Snackbar message are displayed on the screen for each lifecycle event, providing immediate visual feedback directly within the app's UI.
 
-![image alt]()
+![image alt](https://github.com/syam2006/MAD_23012531070_PRACTICAL2/blob/023a33cfe6a932a61fc73a66815dede6c531e0db/Screenshot%202025-11-26%20194947.png)
