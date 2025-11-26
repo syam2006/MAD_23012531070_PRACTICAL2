@@ -1,4 +1,5 @@
-Android Activity Lifecycle Demonstration
+  Android Activity Lifecycle Demonstration
+
 This project is a simple Android application created to demonstrate the fundamental lifecycle of an Android Activity and display a basic UI screen.
 
 AIM
